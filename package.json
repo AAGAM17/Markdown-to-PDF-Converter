@@ -1,6 +1,6 @@
 {
   "name": "markdown-to-pdf-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool that allows developers to easily convert Markdown files to PDF documents",
   "main": "index.js",
   "scripts": {
