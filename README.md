@@ -8,6 +8,8 @@ You can install this package using npm:
 ```bash
 npm install --save markdown-to-pdf-converter
 ```
+https://www.npmjs.com/package/markdown-to-pdf-converter
+
 Or By Yarn:
 
 ```bash
